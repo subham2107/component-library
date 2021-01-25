@@ -1,0 +1,25 @@
+.box{
+    height: 20px;
+    width: 100px;
+    color: white;
+    background-color: brown;
+    text-align: center;
+    text-decoration: underline;
+    border: 10px solid black;
+    margin: 20px;
+    padding: 60px 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+table,
+th,
+td{
+    color: red;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
