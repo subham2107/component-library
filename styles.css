@@ -1,4 +1,4 @@
-.box{
+.box {
     height: 20px;
     width: 100px;
     color: white;
@@ -16,7 +16,7 @@
 
 table,
 th,
-td{
+td {
     color: red;
     padding: 20px;
     margin: 20px;
